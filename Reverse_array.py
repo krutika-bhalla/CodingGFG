@@ -1,3 +1,5 @@
+# used Two Pointers
+
 def reverse_arr(arr):
     
     l,r = 0, len(arr)-1
